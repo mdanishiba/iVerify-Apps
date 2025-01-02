@@ -1,4 +1,4 @@
-## **Index**
+### **Index**
 * [**Solution**](#solution)
 * [**Technical Overview**](#overview)
 * [**Components**](#components)
