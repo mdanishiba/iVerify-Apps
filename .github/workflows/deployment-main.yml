@@ -16,9 +16,9 @@ on:
 #         required: true
 
 env:
-  CONTAINER_NAME_API: api-container
-  CONTAINER_NAME_TRIAGE: triage-container
-  CONTAINER_NAME_PUBLISHER: publisher-container
+  CONTAINER_NAME_API: iverifypak
+  CONTAINER_NAME_TRIAGE: iverify-triage
+  CONTAINER_NAME_PUBLISHER: iverify-publisher
 
 jobs:
   deploy_all:
